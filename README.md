@@ -1,3 +1,3 @@
 # My second webpage project
 
-## Homepage and research page for an ecommerce website for printers
+## Homepage and research page of an ecommerce website for printers
